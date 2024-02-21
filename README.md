@@ -32,12 +32,12 @@ _WEEKLY TRENDS FOR SALES AND PROFIT:_
 ## Skills/ concepts demonstrated:
 ---
 The following Tableau features were incorporated:
-- Calculated Field,
-- Parameters,
-- Tooltip,
-- Path,
-- Label,
-- Filters,
+- Calculated Field
+- Parameters
+- Tooltip
+- Path
+- Label
+- Filters
 - Show me
 
 ## Modelling:
@@ -49,11 +49,11 @@ Tableau relationships define connections between tables- _Orders, People and Ret
 ## Visualization
 ---
 This report comprises 6 pages:
-- Sales KPI,
-- Profit KPI,
-- Sales Comparison,
-- Sales and Profit Comparison,
-- Weekly Trend,
+- Sales KPI
+- Profit KPI
+- Sales Comparison
+- Sales and Profit Comparison
+- Weekly Trend
 - Top 5 Profitable States
 
   You can interact with the report [here](https://public.tableau.com/app/profile/oluwole.fagbemi2492/viz/SS-SalesDashboard/Dashboard1?publish=yes)
