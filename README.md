@@ -19,7 +19,7 @@ _SALES TRENDS:_
 1. Present the data for each **KPI** on a monthly basis for both the current and previous year.
 2. Identify months with the highest and lowest sales and make them easy to recognize.
    
-_PRODUCT SUBCATEGORY COMPARISON:_
+_PRODUCT SUB-CATEGORY COMPARISON:_
 1. Compare Sales performance by different product for the current year and the previous year.
 2. Compare the current year sales with current year profit.
 3. Identify the 5 top prifitable states.
@@ -88,7 +88,7 @@ This report comprises 6 pages:
 
   ## Conclusion and Recommendations:
   - California has the highest impact on income and copier has little invest with higher returns.
-  - There is a need to review the sub-categories yielding losses, and what can be done to maximize profits.
+  - There is a need to review the sub-categories yielding loses, and what can be done to maximize profits.
 
   
 
